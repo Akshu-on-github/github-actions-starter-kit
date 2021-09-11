@@ -21,6 +21,9 @@
  ## Resources
  
 **YAML**:
+- [5 min Tutorial](https://www.educative.io/blog/yaml-tutorial)
+  - Intro to YAML
+  - Covers the basic syntax required for a simple action
 - [Linter](http://www.yamllint.com/)
   - Checks validity and catches errors
   - Outputs a cleaner UTF-8 version
@@ -34,4 +37,4 @@
 
 <hr>
   
-This should be enough to get you started! If you want to contribute to this starter kit, feel free to [raise an issue](https://github.com/Akshu-on-github/github-actions-starter-kit/issues)!
+This should be enough to get you started! If you want to contribute to this starter kit, feel free to [raise an issue](https://github.com/Akshu-on-github/github-actions-starter-kit/issues)
