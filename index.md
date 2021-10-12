@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# GitHub Actions
 
-You can use the [editor on GitHub](https://github.com/Akshu-on-github/github-actions-starter-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Frequently Asked Questions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<details><summary>What is GitHub Actions?</summary>
+        GitHub Actions is a CI/CD tool that helps you automate tasks within the SDLC. GitHub Actions are event-driven - you can run a series of commands when a specified event occurs.
+</details>
 
-### Markdown
+<details><summary>Why use GitHub Actions?</summary>
+        GitHub Actions makes it easy to automate workflows that build, test, and deploy your code directly from GitHub. It helps streamline repetitive tasks like code reviews, branch management, and issue triaging work the way you want.
+</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<details><summary>Who is GitHub Actions for?</summary>
+      Anyone who wants to automate anything on GitHub.<br>
+      Do you want to deploy your portfolio on GitHub Pages? Or maybe you want send a "thank you" message to each first-time contributor? What if you want to automate tests on your opensource project to impress your interviewer?<br>
+      GitHub Actions has you covered. Can't see your use case here? Maybe you can find it in the [Marketplace](https://github.com/marketplace?type=actions)
+</details>
+      
+<hr>
+ 
+ ## Resources
+ 
+**YAML**:
+- [5 min Tutorial](https://www.educative.io/blog/yaml-tutorial)
+  - Intro to YAML
+  - Covers the basic syntax required for a simple action
+- [Linter](http://www.yamllint.com/)
+  - Checks validity and catches errors
+  - Outputs a cleaner UTF-8 version
 
-```markdown
-Syntax highlighted code block
+**GitHub Actions**:
+- [Official Quickstart](https://docs.github.com/en/actions/quickstart)
+  - A segment under the [Official Documentation](https://docs.github.com/en/actions)
+- [GitHub Learning Lab](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
+  - Hands-on walkthrough
+  - Official content via GitHub
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akshu-on-github/github-actions-starter-kit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr>
+  
+This should be enough to get you started! If you want to contribute to this starter kit, feel free to [raise an issue](https://github.com/Akshu-on-github/github-actions-starter-kit/issues)
