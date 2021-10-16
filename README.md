@@ -13,7 +13,7 @@
 <details><summary>Who is GitHub Actions for?</summary>
       Anyone who wants to automate anything on GitHub.<br>
       Do you want to deploy your portfolio on GitHub Pages? Or maybe you want send a "thank you" message to each first-time contributor? What if you want to automate tests on your opensource project to impress your interviewer?<br>
-      GitHub Actions has you covered. Can't see your use case here? Maybe you can find it in the [Marketplace](https://github.com/marketplace?type=actions)
+      GitHub Actions has you covered. Can't see your use case here? Maybe you can find it in the <a href="https://github.com/marketplace?type=actions">Marketplace</a>
 </details>
       
 <hr>
